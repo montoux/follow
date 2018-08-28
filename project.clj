@@ -1,4 +1,4 @@
-(defproject montoux/follow "1.0.0-SNAPSHOT"
+(defproject montoux/follow "1.0.0"
   :description "FRP-inspired state propagation library for ClojureScript."
   :url "http://github.com/montoux/follow"
   :license {:name "Eclipse Public License"
